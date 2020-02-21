@@ -190,4 +190,4 @@ client.on('guildMemberRemove', member => {
     member.guild.channels.get('678968595086180352').send(embed);
 });
 client.on('ready', () => console.log(`"Bigseth Support" is now Online!`));
-client.login('Njc5MDQwNjY1OTgzNjQ3ODI2.XkrkBQ.6qSzKaD6axvXqRmz3aB9E4LnDms');
+client.login('NIBB');
